@@ -82,6 +82,5 @@ a:hover {
     }
     #parent {
         display: flex;
-        flex-direction: column;
     }
 }
